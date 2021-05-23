@@ -17,10 +17,10 @@
 
 <div>
 <a href="https://github.com/danpercic86">
-  <img src="https://github-readme-stats.vercel.app/api?username=danpercic86&show_icons=true&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=danpercic86&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" height="180" />
 </a>
 
 <a href="https://github.com/danpercic86">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danpercic86&layout=compact" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danpercic86&layout=compact&langs_count=10" height="180" />
 </a>
 </div>
