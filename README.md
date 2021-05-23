@@ -21,6 +21,6 @@
 </a>
 
 <a href="https://github.com/danpercic86">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danpercic86&layout=compact&langs_count=10" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danpercic86&layout=compact&langs_count=5" height="180" />
 </a>
 </div>
