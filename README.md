@@ -1,3 +1,7 @@
+<a href="https://github.com/danpercic86">
+  <img src="https://komarev.com/ghpvc/?username=danpercic86" />
+</a>
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
@@ -8,3 +12,15 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+***
+
+<div>
+<a href="https://github.com/danpercic86">
+  <img src="https://github-readme-stats.vercel.app/api?username=danpercic86&show_icons=true&hide_border=true" />
+</a>
+
+<a href="https://github.com/danpercic86">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danpercic86&layout=compact" height="195" />
+</a>
+</div>
