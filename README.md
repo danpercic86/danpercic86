@@ -10,8 +10,11 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- 😄 Pronouns: ... -->
+- ⚡ Fun fact: <b>```I like my code like I like my coffee.```<b> <a href="https://github.com/psf/black">
+    <img src="https://img.shields.io/badge/code%20style-black-000000.svg" 
+    alt="Code style Black">
+</a>
 
 ***
 
